@@ -1,4 +1,5 @@
 *sohu.com
 *126.com
-baidu.com
-youdao.com
+0.0.0.0 baidu.com
+0.0.0.0 youdao.com
+0.0.0.0 bilibili
